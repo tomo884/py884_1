@@ -7,3 +7,9 @@
 .create{
     margin-top: 150px;
 }
+.card-body img{
+	width:100%;
+}
+footer p{
+    text-align:center
+}
